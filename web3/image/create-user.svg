@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.095 19">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #b6b9c3;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #fdfdfe;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="create-user" transform="translate(-2 -288)">
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-1" transform="translate(6 288)">
+      <ellipse class="cls-3" cx="5" cy="5.5" rx="5" ry="5.5"/>
+      <ellipse class="cls-4" cx="5" cy="5.5" rx="4.25" ry="4.75"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-1" transform="translate(2 300)">
+      <path class="cls-3" d="M7,0h4a7,7,0,0,1,7,7V7a0,0,0,0,1,0,0H0A0,0,0,0,1,0,7V7A7,7,0,0,1,7,0Z"/>
+      <path class="cls-4" d="M5.906.75h6.188A5.156,5.156,0,0,1,17.25,5.906v0a.344.344,0,0,1-.344.344H1.094A.344.344,0,0,1,.75,5.906v0A5.156,5.156,0,0,1,5.906.75Z"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-2" transform="translate(14 297.5)">
+      <rect class="cls-3" width="8" height="8" rx="1"/>
+      <rect class="cls-4" x="0.75" y="0.75" width="6.5" height="6.5" rx="0.25"/>
+    </g>
+    <line id="Line_3" data-name="Line 3" class="cls-1" x2="6.678" transform="translate(15.417 299.756)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-1" y2="6.678" transform="translate(18.756 296.417)"/>
+  </g>
+</svg>

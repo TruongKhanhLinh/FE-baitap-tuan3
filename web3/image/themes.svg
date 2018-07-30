@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.496 21.176">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #b6b9c3;
+        stroke-width: 1.5px;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="themes" transform="translate(164 -387)">
+    <g id="Rectangle_7" data-name="Rectangle 7" class="cls-1" transform="translate(-164 387)">
+      <rect class="cls-4" width="12" height="21"/>
+      <rect class="cls-5" x="0.75" y="0.75" width="10.5" height="19.5"/>
+    </g>
+    <line id="Line_10" data-name="Line 10" class="cls-2" x2="11" transform="translate(-163.5 401.5)"/>
+    <g id="Ellipse_10" data-name="Ellipse 10" class="cls-3" transform="translate(-159 403.5)">
+      <circle class="cls-4" cx="1" cy="1" r="1"/>
+      <circle class="cls-5" cx="1" cy="1" r="0.25"/>
+    </g>
+    <path id="Path_9" data-name="Path 9" class="cls-1" d="M-152.5,388.774l4.27.725-3.4,14.775Z" transform="translate(144.866 92.973) rotate(23)"/>
+    <path id="Path_10" data-name="Path 10" class="cls-1" d="M-152.5,388.86l5.351.742-3.491,14.774Z" transform="translate(52.977 24.778) rotate(8)"/>
+  </g>
+</svg>

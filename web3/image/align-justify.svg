@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20.049 17.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #b6b9c3;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #b6b9c3;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="3" height="17.5"/>
+    </clipPath>
+  </defs>
+  <g id="align-justify" transform="translate(-70.5 -293.25)">
+    <g id="align-justify-2" data-name="align-justify" transform="translate(74 288.25)">
+      <line id="Line_5" data-name="Line 5" class="cls-2" x1="12.799" transform="translate(3 11.085)"/>
+      <line id="Line_6" data-name="Line 6" class="cls-2" x1="12.799" transform="translate(3 6)"/>
+      <line id="Line_7" data-name="Line 7" class="cls-2" x1="12.799" transform="translate(3 16.17)"/>
+      <line id="Line_8" data-name="Line 8" class="cls-2" x1="12.799" transform="translate(3 21.255)"/>
+    </g>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-3" transform="translate(70.5 293.25)">
+      <g transform="translate(-108 -297.25)">
+        <g id="Ellipse_9" data-name="Ellipse 9" class="cls-4" transform="translate(108 297.25)">
+          <circle class="cls-5" cx="1.2" cy="1.2" r="1.2"/>
+          <circle class="cls-1" cx="1.2" cy="1.2" r="0.7"/>
+        </g>
+      </g>
+      <g transform="translate(-108 -292.25)">
+        <g id="Ellipse_9-2" data-name="Ellipse 9" class="cls-4" transform="translate(108 297.25)">
+          <circle class="cls-5" cx="1.2" cy="1.2" r="1.2"/>
+          <circle class="cls-1" cx="1.2" cy="1.2" r="0.7"/>
+        </g>
+      </g>
+      <g transform="translate(-108 -287.25)">
+        <g id="Ellipse_9-3" data-name="Ellipse 9" class="cls-4" transform="translate(108 297.25)">
+          <circle class="cls-5" cx="1.2" cy="1.2" r="1.2"/>
+          <circle class="cls-1" cx="1.2" cy="1.2" r="0.7"/>
+        </g>
+      </g>
+      <g transform="translate(-108 -282.25)">
+        <g id="Ellipse_9-4" data-name="Ellipse 9" class="cls-4" transform="translate(108 297.25)">
+          <circle class="cls-5" cx="1.2" cy="1.2" r="1.2"/>
+          <circle class="cls-1" cx="1.2" cy="1.2" r="0.7"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

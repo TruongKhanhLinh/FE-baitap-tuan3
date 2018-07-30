@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.265 18.861">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #b6b9c3;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fdfdfe;
+      }
+    </style>
+  </defs>
+  <g id="Roles" transform="translate(-32.25 -288.5)">
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="2.859" cy="3.232" rx="2.859" ry="3.232" transform="translate(43.29 289.25)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-2" d="M59,303.789v-3.752l1.987-1.57,2.928-1.19H67.3l2.745,1.19,2.288,1.57v3.752H59Z" transform="translate(-19.57 -1.229)"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" class="cls-3" cx="3.894" cy="4.358" rx="3.894" ry="4.358" transform="translate(37.465 289.714)"/>
+    <path id="Path_6" data-name="Path 6" class="cls-4" d="M59,305.378v-4.667l2.472-1.953,3.643-1.48h4.213l3.416,1.48,2.846,1.953v4.667H59Z" transform="translate(-26 1.232)"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.237 20.588">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #b6b9c3;
+        stroke-width: 1.5px;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="inventory" transform="translate(165.25 -326.162)">
+    <path id="Path_11" data-name="Path 11" class="cls-1" d="M-286,335V320.08l5.517-4.168h8.072l6.149,4.168V335Z" transform="translate(121.5 11)"/>
+    <path id="Path_12" data-name="Path 12" class="cls-2" d="M0,0H20" transform="translate(-164.5 331.5)"/>
+    <path id="Path_13" data-name="Path 13" class="cls-1" d="M-275.494,329h-4V320.52a11.636,11.636,0,0,1,1.311-2.961c.642-.74.65-.74,1.259,0a15.253,15.253,0,0,1,1.431,2.961Z" transform="translate(122.994 11)"/>
+  </g>
+</svg>

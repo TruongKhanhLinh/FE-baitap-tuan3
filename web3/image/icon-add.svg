@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #d6d9dc;
+        stroke-width: 0.5px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #c4c7cc;
+        stroke: #c4c7cc;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="15" height="5"/>
+    </clipPath>
+  </defs>
+  <g id="icon-add" transform="translate(260 -352)">
+    <g id="Rectangle_8" data-name="Rectangle 8" class="cls-2" transform="translate(-260 352)">
+      <rect class="cls-5" width="26" height="21" rx="3"/>
+      <rect class="cls-1" x="0.25" y="0.25" width="25.5" height="20.5" rx="2.75"/>
+    </g>
+    <g id="Repeat_Grid_3" data-name="Repeat Grid 3" class="cls-3" transform="translate(-254 360)">
+      <g transform="translate(271 -334)">
+        <g id="Ellipse_11" data-name="Ellipse 11" class="cls-4" transform="translate(-270 335)">
+          <circle class="cls-5" cx="1.5" cy="1.5" r="1.5"/>
+          <circle class="cls-1" cx="1.5" cy="1.5" r="1"/>
+        </g>
+      </g>
+      <g transform="translate(276 -334)">
+        <g id="Ellipse_11-2" data-name="Ellipse 11" class="cls-4" transform="translate(-270 335)">
+          <circle class="cls-5" cx="1.5" cy="1.5" r="1.5"/>
+          <circle class="cls-1" cx="1.5" cy="1.5" r="1"/>
+        </g>
+      </g>
+      <g transform="translate(281 -334)">
+        <g id="Ellipse_11-3" data-name="Ellipse 11" class="cls-4" transform="translate(-270 335)">
+          <circle class="cls-5" cx="1.5" cy="1.5" r="1.5"/>
+          <circle class="cls-1" cx="1.5" cy="1.5" r="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

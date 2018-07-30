@@ -1,0 +1,294 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1px;
+	display: flex;
+	margin: 0 auto;
+}
+.container-left{
+	border-right: 2px solid #eff0f0;
+	width: 23%;
+	height: auto;
+}
+.header-left {
+	width: 100%;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	position: relative;
+}
+.logo {
+	width: 60px;
+    margin-left: 15px;
+}
+.header-left .icon-select {
+	position: absolute;
+	width: 23px;
+	right: 15px;
+	cursor: pointer;
+}
+.list{
+	color: #3f3d3f;
+	width: 100%;
+	height: auto; 
+	margin-top: 10px;
+	float: left;
+}
+.list ul {
+	display: inline;
+}
+.list ul li div {   
+    margin-bottom: 25px;
+    margin-left: 35px;
+	cursor: pointer;
+}
+.list ul li div:hover {
+	color:  #43a2ff;
+}
+.item-icon {
+	float: left;
+	width: 17px;
+	padding-right: 25px;
+}
+.list h6 {
+	color: #bcbec4;    
+    font-size: 0.63em;
+    color: #bcbec4;
+    margin-top: 0px;
+    margin-bottom: -15px;
+    margin-left: 75px;
+}
+.icon-list {
+	margin-top: 4px;
+}
+.footer-left {
+	width: 100%; 
+	height: 90px;
+	margin-top: 100px;
+	float: left;
+	bottom: 20px;
+	position: relative;
+}
+.footer-left img {
+	position: absolute;
+	left: 125px;
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin:auto;
+	border-radius: 100%;
+	box-shadow: 0px 15px 12px 0px #d2e8ffb8;
+	cursor: pointer;
+}
+.flatRoundedCheckbox
+{
+	float: left;
+    width: 27px;
+    height: 14px;
+    bottom: 0px;
+    right: 20px;
+    position: absolute;
+}
+.flatRoundedCheckbox input {
+	display: none;
+}
+.flatRoundedCheckbox div
+{
+    width: 100%;
+    height:100%;
+    background: #d3d3d3;
+    border-radius: 30px;
+    position: relative;
+}
+.flatRoundedCheckbox label
+{
+	margin-left: -5px;
+    margin-top: -3px;
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+	transition: all .5s ease;
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+    z-index: 1;
+    left: 8px;
+    background: #fff;
+}
+.flatRoundedCheckbox input[type=checkbox]:checked ~ div
+{
+    background: #4fbe79;
+}
+.flatRoundedCheckbox input[type=checkbox]:checked ~ label {
+    left: 19px;
+}
+
+.container-right{
+	flex-grow: 1;
+	height: auto;
+	position: relative;
+}
+
+.header-right {
+	border-bottom: 2px solid #eff0f0;
+	width: 95%;
+	height: 200px;
+	padding-left: 50px;
+	padding-top: 23px;
+}
+.name-list {
+	width: auto;
+	height: auto;
+	font-size: 0.9em;
+	color: #9ea7af;
+}
+.name-list span {
+	font-weight: 600;
+	color: #5baeff;
+}
+.name-projects {
+	width: auto;
+	height: auto;
+	margin-right: 70px;
+	margin-top: -30px;
+	display: flex;
+}
+.name {
+	flex-grow: 1;
+	font-size: 1.6em;
+	color: #272e40
+}
+.time {
+	width: auto;
+	height: auto;
+	display: flex;
+	align-items: center;
+}
+.time ul li {
+	border: 1px solid white;
+    border-radius: 30px;
+    padding: 3px 10px 3px 10px;
+    display: inline;
+    color: #636372;
+    font-size: 0.8em;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.time ul li:hover {
+	border: 1px solid #198cff;
+	padding: 3px 10px 3px 10px;
+	border-radius: 30px;
+	background-color: #198cff;
+	box-shadow: 0px 7px #e0efff;
+	color: white;
+	font-size: 0.8em;
+}
+.bar-nav{
+	margin-left: -40px;
+    margin-top: -10px;
+}
+.bar-nav ul li {    
+	color: #9ea7af;
+	font-size: 0.9em;
+	float: left;
+    display: flex;
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 60px;
+    padding-bottom: 28px;
+}
+.bar-nav ul li:hover{
+	border-bottom: 2px solid #198cff;
+	color: #787885;
+}
+.bar-nav ul li p:hover{
+	color: #787885;
+}
+.bar-nav span {
+	border: 1px solid #ecf6ff;
+    padding: 1px 5px 1px 5px;
+    background: #ecf6ff;
+    border-radius: 10px;
+    letter-spacing: 0px;
+    color: #2491ff;
+    font-size: 0.7em;
+    margin-right: 8px;
+}
+
+.content {
+	margin-top: 37px;
+}
+.name-file {
+	width: auto;
+	height: auto;
+	display: flex;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 20px;
+	position: relative;
+}
+.name-file.border {
+	border-bottom: 2px solid #eff0f0;
+}
+.block-name-file {
+	margin-top: 2px;
+    margin-left: 40px;
+    width: 965px;
+    height: 90px;
+	color: #3f3d3f;
+	font-size: 0.9em;
+	cursor: pointer;
+}
+.block-name-file:hover {
+	background-color: #198cff;
+	border-radius: 10px;
+	box-shadow: 0px 10px 12px 5px #e7f3ff;
+	color: white;
+}
+.icon-file {    
+	width: 43px;
+    height: 50px;
+    margin-right: 22px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.name-file p {
+    border: 1px solid #e9ebed;
+    background-color: #e9ebed;
+    border-radius: 30px;
+    padding: 2px 7px 2px 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 36px;
+    height: 15px;
+    font-size: 0.8em;
+    font-weight: 600;
+    text-align: center;
+    color: #70777f;
+}
+.name-file .icon-select {
+    width: 23px;
+    height: 4px;
+    position: absolute;
+    right: 5px;
+    top: 45px;
+    align-items: center;
+    cursor: pointer;
+}
+.item-action {
+	position: absolute;
+	bottom: 20px;
+	width: 100%;
+	height: auto;
+}
+.icon-action {
+	width: 40px;
+    margin-left: 25px;
+    margin-right: -10px;
+    cursor: pointer;
+}
+.icon-action.icon-add{
+	float: right;
+	margin-right: 25px;
+}

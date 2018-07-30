@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178.498 223.207">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke: #b6b9c3;
+      }
+
+      .cls-1 {
+        stroke-width: 7px;
+      }
+
+      .cls-2 {
+        fill: #b6b9c3;
+        font-size: 72px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke-width: 13px;
+      }
+    </style>
+  </defs>
+  <g id="memo" transform="translate(-335.024 -1049.112)">
+    <path id="Path_27" data-name="Path 27" class="cls-1" d="M125.812,1482.258V1304l-17.065,18.289L90.08,1306.076l-16.292,16.211-18.667-16.211-16.292,16.211L20.5,1306.076l-16.97,16.211-19.007-16.211v193.173s1.7,13.827,12.9,15.454,16.631-15.454,16.631-15.454,2.376-13.154,0-16.207,141.193-.985,141.193-.784,1.7,5.6,0,16.991a20.58,20.58,0,0,1-11.54,15.454H-2.8" transform="translate(354 -246.005)"/>
+    <text id="_" data-name="$" class="cls-2" transform="translate(392 1148)"><tspan x="0" y="0">$</tspan></text>
+    <line id="Line_16" data-name="Line 16" class="cls-3" x2="87.244" transform="translate(368.5 1183.409)"/>
+    <path id="Path_28" data-name="Path 28" class="cls-3" d="M0,0H65" transform="translate(379.5 1201.086)"/>
+  </g>
+</svg>

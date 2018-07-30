@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 196">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #f5f6fa;
+        stroke: #b6b9c3;
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #f5f6fa;
+        stroke-width: 10px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="paid" transform="translate(-58 -1058)">
+    <g id="Ellipse_14" data-name="Ellipse 14" class="cls-1" transform="translate(58 1058)">
+      <circle class="cls-4" cx="98" cy="98" r="98"/>
+      <circle class="cls-5" cx="98" cy="98" r="95"/>
+    </g>
+    <path id="Union_2" data-name="Union 2" class="cls-2" d="M60.617,75.157l1.751-22.831a28.38,28.38,0,0,1-13.2-24.281C49.169,12.556,61.006,0,75.607,0s26.439,12.556,26.439,28.045a28.335,28.335,0,0,1-13.725,24.6L90.48,75.157s50.365,11.534,59.725,24L0,100.16C28.08,79.8,60.617,75.157,60.617,75.157Z" transform="translate(81.475 1113.5)"/>
+    <path id="Path_23" data-name="Path 23" class="cls-3" d="M5,3S13.5.5,72.523.953,134,1,134,1" transform="translate(86.5 1212.5)"/>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23.714">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #b6b9c3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e83152;
+        stroke: #e83152;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="bell" transform="translate(-294.384 -233)">
+    <path id="bell-2" data-name="bell" class="cls-1" d="M20.293,19.381H2c1.515,0,2.744-1.556,2.744-3.476V10.111C4.744,5.632,7.61,2,11.146,2s6.4,3.632,6.4,8.111v5.794C17.549,17.825,18.777,19.381,20.293,19.381Zm-6.895.113a3.406,3.406,0,0,1-.809,1.455,2.15,2.15,0,0,1-1.443.632,2.766,2.766,0,0,1-1.586-.662,3.894,3.894,0,0,1-.666-1.425" transform="translate(293.384 234.132)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="6" cy="6" r="6" transform="translate(305.384 233)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-3" transform="translate(307.384 235)">
+      <ellipse class="cls-4" cx="4.017" cy="4.017" rx="4.017" ry="4.017"/>
+      <ellipse class="cls-5" cx="4.017" cy="4.017" rx="3.017" ry="3.017"/>
+    </g>
+  </g>
+</svg>

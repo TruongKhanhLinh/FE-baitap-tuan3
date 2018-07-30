@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.521 15.061">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b4b8c1;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="amount-down" transform="translate(43.5 -319.5)">
+    <path id="Path_17" data-name="Path 17" class="cls-1" d="M2,0H17" transform="translate(-45.5 332.5)"/>
+    <path id="Path_14" data-name="Path 14" class="cls-1" d="M3,0H14" transform="translate(-42.5 328.5)"/>
+    <path id="Path_16" data-name="Path 16" class="cls-1" d="M3,0h7" transform="translate(-38.5 324.5)"/>
+    <path id="Path_15" data-name="Path 15" class="cls-1" d="M2.786,0H6" transform="translate(-34.5 320.5)"/>
+    <line id="Line_13" data-name="Line 13" class="cls-1" y2="13" transform="translate(-22.5 319.5)"/>
+    <path id="Path_18" data-name="Path 18" class="cls-1" d="M-26.5,329.5l3.864,4,4.136-4"/>
+  </g>
+</svg>

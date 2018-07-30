@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159.289 176.959">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #b6b9c3;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #f8f8fb;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="calendar" transform="translate(41 -717)">
+    <g id="Rectangle_12" data-name="Rectangle 12" class="cls-1" transform="translate(-41 735.076)">
+      <rect class="cls-3" width="158.883" height="158.883"/>
+      <rect class="cls-4" x="3" y="3" width="152.883" height="152.883"/>
+    </g>
+    <line id="Line_15" data-name="Line 15" class="cls-1" x2="158.883" transform="translate(-40.595 786.551)"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" class="cls-2" transform="translate(-12.249 717)">
+      <rect class="cls-3" width="23.508" height="41.827" rx="11.754"/>
+      <rect class="cls-4" x="3" y="3" width="17.508" height="35.827" rx="8.754"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" class="cls-2" transform="translate(66.435 717)">
+      <rect class="cls-3" width="23.508" height="41.827" rx="11.754"/>
+      <rect class="cls-4" x="3" y="3" width="17.508" height="35.827" rx="8.754"/>
+    </g>
+  </g>
+</svg>
